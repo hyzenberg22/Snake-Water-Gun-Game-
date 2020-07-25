@@ -1,1 +1,20 @@
 #SNAKE WATER GUN GAME 
+* HELLO GUYS THIS CODE IS DEVELOPED BY SHUBHAJIT SARKAR 
+* In this game you have to choose between 3 things [snake. water, and gun ]
+* if you choose snake
+	1.computer also choose snake then the game will Tie
+	2.computer  choose gun then you will loose as the gun kills the snake 
+	3.computer choose water then you will win as the snake drink the water 
+
+* if you choose water
+	1.computer also choose water then the game will Tie
+	2.computer  choose gun then you will win as the gun sinks in water 
+	3.computer choose snake then you will loose as the snake drink the water 
+	
+* if you choose gun
+	1.computer also choose gun then the game will Tie
+	2.computer  choose water then you will loose as the gun sinks in water 
+	3.computer choose snake then you will win as the snake drinks the water 
+	
+	
+so go and play ad Thanks for playing..!
