@@ -27,9 +27,11 @@ now the senario is
  
  so play and give the feed back by adding more features if you want.
  i will be very happy if you add some more features and find the bugs 
- 
-                 #THANK YOU 
-               #CREATED BY SHUBHAJIT SARKAR   
+
+
+#THANK YOU 
+
+#CREATED BY SHUBHAJIT SARKAR   
                
                  
  
